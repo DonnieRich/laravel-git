@@ -80,6 +80,6 @@ class AlbumController extends Controller
      */
     public function destroy(Album $album)
     {
-        //
+        // New comment to commit
     }
 }
